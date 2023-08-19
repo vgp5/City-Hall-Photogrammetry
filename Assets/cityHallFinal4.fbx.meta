@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: f312be49e20673548a1aeb3d5d6ed1ae
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00000-texture
+    second: {fileID: 2800000, guid: 958c25ff95bf9464f80d0f079eab08d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00001-texture
+    second: {fileID: 2800000, guid: ff91159b2ce36f7448ee3a1c8d2e6bd3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00002-texture
+    second: {fileID: 2800000, guid: 3251448e474a5e940b1c60b98f1794cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00003-texture
+    second: {fileID: 2800000, guid: 524ca009af5277a43b840cdb703907cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00004-texture
+    second: {fileID: 2800000, guid: 952648a4f233d1d4c97f3aa925f6bf26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00005-texture
+    second: {fileID: 2800000, guid: 59614bd4f593eeb43ae348deb541094b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00006-texture
+    second: {fileID: 2800000, guid: 93d89f67625ed2143813ca6d95c00c0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00007-texture
+    second: {fileID: 2800000, guid: 32e7a0b2ab9b82d4fb3db1d054cb9fb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00008-texture
+    second: {fileID: 2800000, guid: 673771a977e93e84ab9ff16ad73a2db0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00009-texture
+    second: {fileID: 2800000, guid: 1cd653053fbe1ed4c857fdb5caa5d70f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00010-texture
+    second: {fileID: 2800000, guid: 3f2ded0b062898d43b91524db507e6a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00011-texture
+    second: {fileID: 2800000, guid: 7e9c9e824d148cd4aa9cb8e701be22cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00012-texture
+    second: {fileID: 2800000, guid: 7e45f4836894b4f4381abb1f0a94456c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00013-texture
+    second: {fileID: 2800000, guid: 63f3be24fa1a87746981e81fbf603e60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00014-texture
+    second: {fileID: 2800000, guid: d91a835703ad76d4588e84e3da176c27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00015-texture
+    second: {fileID: 2800000, guid: 82d63d637b2b5ba449f71e42de965b22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00016-texture
+    second: {fileID: 2800000, guid: 546816b0530502d4f8d8590faf7d18c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00017-texture
+    second: {fileID: 2800000, guid: c9459a6be7f75fa49a37697f0678655d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00018-texture
+    second: {fileID: 2800000, guid: 2035abf22ff163546b03bc4dfe645716, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00019-texture
+    second: {fileID: 2800000, guid: 585ae799aa35aa348b33af84b20d4366, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00021-texture
+    second: {fileID: 2800000, guid: dde8b28d824d67f4098bbfb93635e7f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00022-texture
+    second: {fileID: 2800000, guid: 1176a7a41428d254fa8215161fa611c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00024-texture
+    second: {fileID: 2800000, guid: 417b5fdc46691834b822530547c158b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00025-texture
+    second: {fileID: 2800000, guid: d2eec44806c91f04f99e10f74ab6359d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00026-texture
+    second: {fileID: 2800000, guid: fe0ec013325d20a40a0b817f7ed451c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00027-texture
+    second: {fileID: 2800000, guid: bdd92469116bc424da0d89a24ba03054, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00028-texture
+    second: {fileID: 2800000, guid: 8573918b32c8a1a4c9dcd7dcd9807d09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00029-texture
+    second: {fileID: 2800000, guid: 593b200e541024b4cbaec2f74bde1112, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00030-texture
+    second: {fileID: 2800000, guid: d79960c6fd8659c42866892a200700c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00031-texture
+    second: {fileID: 2800000, guid: 6f5401ba09cff2745b1e8880d768f528, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00033-texture
+    second: {fileID: 2800000, guid: dc8c47b0004c6854eaa3a3d59fe1ba07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00034-texture
+    second: {fileID: 2800000, guid: 66e6627340a247240a41cba6fe7ae3e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00035-texture
+    second: {fileID: 2800000, guid: fb51ff4a74e4fe341810fbd0b683bf65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00036-texture
+    second: {fileID: 2800000, guid: 9037d487702e92e42936d717186be2a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00037-texture
+    second: {fileID: 2800000, guid: b2aa81e15a5798b49a5ced1b65b0988a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00038-texture
+    second: {fileID: 2800000, guid: 1ffa5813664e9cf42932cad85964e54e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00039-texture
+    second: {fileID: 2800000, guid: 4c9f2ce3134555e4aab6d62a138e0980, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00040-texture
+    second: {fileID: 2800000, guid: 81afb4513334e784899dab6d66e6bcd6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00041-texture
+    second: {fileID: 2800000, guid: 0b8b43cc2d26285478423ce2a2536b22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00042-texture
+    second: {fileID: 2800000, guid: d662bf5bcfc71574484845b4d0825540, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00045-texture
+    second: {fileID: 2800000, guid: 026b6c5b6468d89439c53e2a37c918bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00046-texture
+    second: {fileID: 2800000, guid: 2678fd9266d5b194b8adda8e5b2bb29d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00047-texture
+    second: {fileID: 2800000, guid: 5ea225675e41bf042ad556e27f9d6e38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00048-texture
+    second: {fileID: 2800000, guid: 7b2fe5a3f4e90374c8bfe7635738b62a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00051-texture
+    second: {fileID: 2800000, guid: f4e97d1e8a0628043a132909cfe47d4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00056-texture
+    second: {fileID: 2800000, guid: f732fe927f726e54493e7d9a36ff5107, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00057-texture
+    second: {fileID: 2800000, guid: 1a5d68b67aad9b44f941b171ac21f256, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00068-texture
+    second: {fileID: 2800000, guid: e5860c29f5612b343bf4c62b6021f198, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00069-texture
+    second: {fileID: 2800000, guid: 3f06e40194a50db44a7a480aef828cfe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00096-texture
+    second: {fileID: 2800000, guid: 2e4639df76ff4eb499143d65d3f064b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00097-texture
+    second: {fileID: 2800000, guid: 0c90083c47a6f6b4987aa5074a9af978, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00098-texture
+    second: {fileID: 2800000, guid: 3bca78a41d2a2dd458397037def4ff11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00099-texture
+    second: {fileID: 2800000, guid: 1ffb0ece8cac6a94b98ff4ac4530bca7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00101-texture
+    second: {fileID: 2800000, guid: bc51cc5b1ef08f94eb242a9d34191bb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00102-texture
+    second: {fileID: 2800000, guid: 672ab2cc2f78cc544a9e41671a458230, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00104-texture
+    second: {fileID: 2800000, guid: 52ace13aeff95b6448b30b252c3949ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00106-texture
+    second: {fileID: 2800000, guid: 1c939ac5ae690654c8c7d3e9a6940f0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00108-texture
+    second: {fileID: 2800000, guid: 151e05cdd0d87ed4d82f73cb82af8561, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00109-texture
+    second: {fileID: 2800000, guid: 453cf5281e0a1fb488a8a2104dc5b797, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00111-texture
+    second: {fileID: 2800000, guid: ee8e4cfed4973dd43aa310a83cc93183, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00112-texture
+    second: {fileID: 2800000, guid: 6fe9b4e8d55354e4b9cca12d0e507b10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00117-texture
+    second: {fileID: 2800000, guid: e56b34cf3cf40864698095940a6b6e46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00118-texture
+    second: {fileID: 2800000, guid: 617f8968c1e8ab846b5cdae69663ae38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00123-texture
+    second: {fileID: 2800000, guid: 1f1b7d5835099d447a8865a682e418f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00124-texture
+    second: {fileID: 2800000, guid: 3caa9e9b54de7e7428eca5ccda363aec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00126-texture
+    second: {fileID: 2800000, guid: e7d77800063960f43ac0f33f6f48fa37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00127-texture
+    second: {fileID: 2800000, guid: 223b0ff52973a444a8d4c7ea5f18c711, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00129-texture
+    second: {fileID: 2800000, guid: 3f5e2ce92a84cdc41b520ec345b3b9e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00130-texture
+    second: {fileID: 2800000, guid: f34a1354ece637b4ea60adcb36fc63a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00132-texture
+    second: {fileID: 2800000, guid: e7b2973caf7046d48ab77a6ac7e6bb71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00133-texture
+    second: {fileID: 2800000, guid: ef821685050894646939f60a3c00a317, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00134-texture
+    second: {fileID: 2800000, guid: 3427a54026e22ea4fbb041a2f4d4853a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00137-texture
+    second: {fileID: 2800000, guid: 56450d8e22428104ea9342fc70e2a48a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00149-texture
+    second: {fileID: 2800000, guid: a776f995444ec994ea38931c1e2a05c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00153-texture
+    second: {fileID: 2800000, guid: 53e61185c67c2a94db87c2cb0911f78a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00161-texture
+    second: {fileID: 2800000, guid: c9f705780385f164196426168d5fbe8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00162-texture
+    second: {fileID: 2800000, guid: 30b80b3e16fbc9a4ab9dd7656b349a83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00163-texture
+    second: {fileID: 2800000, guid: baec241ebe9523d43892d2888b6b75e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00164-texture
+    second: {fileID: 2800000, guid: 6ca9c919b0d00774e8cebcc789af6409, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00165-texture
+    second: {fileID: 2800000, guid: 8f80fa38aafbec244b0bd1e85961b45d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cityH8-00166-texture
+    second: {fileID: 2800000, guid: 410a839fdc593a249b4453df787023f6, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
